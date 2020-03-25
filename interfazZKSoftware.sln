@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2011
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "interfazZKSoftware", "interfazZKSoftware\interfazZKSoftware.csproj", "{E926854F-F1F1-4635-88B9-4423359F64F3}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Cliente", "Cliente\Cliente.vdproj", "{BDCFAD91-58C7-48D4-9895-4CEE903AD81E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E926854F-F1F1-4635-88B9-4423359F64F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E926854F-F1F1-4635-88B9-4423359F64F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E926854F-F1F1-4635-88B9-4423359F64F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E926854F-F1F1-4635-88B9-4423359F64F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDCFAD91-58C7-48D4-9895-4CEE903AD81E}.Debug|Any CPU.ActiveCfg = Debug
+		{BDCFAD91-58C7-48D4-9895-4CEE903AD81E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAA1EB7E-596F-4D2A-8424-572BADA3CB09}
+	EndGlobalSection
+EndGlobal
